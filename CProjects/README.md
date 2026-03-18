@@ -22,5 +22,3 @@ The program allows users to perform repeated calculations using a menu-driven in
 ## Author
 Thomas Messier  
 
-## Website
-https://yourdomain.com
